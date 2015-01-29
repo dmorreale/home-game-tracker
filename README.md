@@ -1,2 +1,2 @@
 # home-game-tracker
-Maintains Statistics for Home Game
+Maintains Statistics for our Home Game
